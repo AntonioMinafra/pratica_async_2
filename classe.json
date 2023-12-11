@@ -1,0 +1,37 @@
+{
+    "nome": "4A",
+    "numeroAlunni": 21,
+    "scuolaSabato": false,
+    "scuola": "suola Elementare Miao",
+    "insegnanti": [
+        {
+            "nome": "Anna",
+            "cognome": "Rossi",
+            "materieIinsegnate": ["storia", "italiano", "geografia"]
+        },
+        {
+            "nome": "Ludovica",
+            "cognome": "verdi",
+            "materieIinsegnate": ["matematica", "geometria"]
+        }
+    ],
+    "alunni": [
+        {
+            "nome": "Marco",
+            "cognome": "Fiore"
+        },
+        {
+            "nome": "Antonio",
+            "cognome": "Panza"
+        },
+        {
+            "nome": "Sergio",
+            "cognome": "Ceglie"
+        } 
+    ],
+    "orari": {
+        "mattina": ["storia", "matematica"],
+        "pomeriggio": ["italiano", "geografia"]
+    }
+    
+}
